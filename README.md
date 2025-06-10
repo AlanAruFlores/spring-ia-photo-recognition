@@ -22,19 +22,6 @@ This project demonstrates the integration of Spring Boot with Azure's Computer V
 - Azure Computer Vision SDK
 - Maven
 
-## Project Structure
-
-```
-demo/
-├── src/
-│   ├── main/
-│   │   ├── java/        # Java source files
-│   │   └── resources/   # Application properties and resources
-│   └── test/            # Test files
-├── pom.xml              # Maven configuration
-└── README.md           # Project documentation
-```
-
 ## Getting Started
 
 1. Clone the repository:
